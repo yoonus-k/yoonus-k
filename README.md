@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks like next.js , angular .**
 
-- 👯 I’m looking to collaborate on **Gyg products online store**
+- 👯 I’m looking to collaborate on **Gym products online store**
 
 - 💬 Ask me about **react, next.js , and more.**
 
