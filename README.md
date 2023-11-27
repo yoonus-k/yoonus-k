@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **FireBase_based hospital system**
 
-- 🌱 I’m currently learning **Frameworks like next.js , angular .**
+- 🌱 I’m currently learning **Frameworks like Next.js , Angular and Django .**
 
 - 👯 I’m looking to collaborate on **Gym products online store**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yoonusk2001@gmail.com**
 
-- ⚡ Fun fact **keep it simple :)**
+- ⚡ My rule : **keep it simple :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
