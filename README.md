@@ -17,7 +17,7 @@ I'm a passionate **AI/ML Engineer** and **Full-Stack Developer** with expertise 
 - 👯 **Looking to collaborate on:** AI/ML projects, Trading Systems, and Enterprise Solutions
 - 💬 **Ask me about:** React.js, Python, Machine Learning, Trading Algorithms, and Project Management
 - 📫 **Reach me:** [yoonusk2001@gmail.com](mailto:yoonusk2001@gmail.com)
-- 🌐 **Portfolio:** [yoonus.dev](https://yoonus.me)
+- 🌐 **Portfolio:** [yoonus.me](https://yoonus.me)
 - ⚡ **Fun fact:** I've built systems that generated $1M+ in revenue!
 
 ---
@@ -144,16 +144,6 @@ PHP        ████████████░░░░░░░░░   60%
 
 ---
 
-## 🏅 Certifications & Achievements
-
-- 🎯 **Project Management Professional (PMP)**
-- 🔧 **Software Engineering Professional**
-- ☁️ **AWS Cloud Practitioner**
-- 📊 **Google Analytics Certified**
-- 🎨 **Figma Design Certified**
-
----
-
 ## 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoonus-k&theme=tokyo-night&hide_border=true" width="100%"/>
@@ -169,7 +159,7 @@ PHP        ████████████░░░░░░░░░   60%
   <a href="https://github.com/yoonus-k" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://yoonus.dev" target="_blank">
+  <a href="https://yoonus.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:yoonusk2001@gmail.com" target="_blank">
@@ -217,6 +207,6 @@ Other         0 hrs 30 mins  ░░░░░░░░░░░░░░░░░
 <div align="center">
   <b>🚀 Ready to innovate together? Let's connect!</b><br>
   <a href="https://calendly.com/yoonus-k">📅 Schedule a call</a> • 
-  <a href="https://yoonus.dev">🌐 Visit my portfolio</a> • 
+  <a href="https://yoonus.me">🌐 Visit my portfolio</a> • 
   <a href="mailto:yoonusk2001@gmail.com">📧 Send an email</a>
 </div>
