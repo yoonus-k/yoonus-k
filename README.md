@@ -17,7 +17,7 @@ I'm a passionate **AI/ML Engineer** and **Full-Stack Developer** with expertise 
 - 👯 **Looking to collaborate on:** AI/ML projects, Trading Systems, and Enterprise Solutions
 - 💬 **Ask me about:** React.js, Python, Machine Learning, Trading Algorithms, and Project Management
 - 📫 **Reach me:** [yoonusk2001@gmail.com](mailto:yoonusk2001@gmail.com)
-- 🌐 **Portfolio:** [yoonus.dev](https://yoonus.dev)
+- 🌐 **Portfolio:** [yoonus.dev](https://yoonus.me)
 - ⚡ **Fun fact:** I've built systems that generated $1M+ in revenue!
 
 ---
